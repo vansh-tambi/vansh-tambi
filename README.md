@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&color=%23FFA500&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+🌍;+I'm+Vansh+Tambi!" alt="Typing SVG" />
 </h1>
@@ -17,7 +16,6 @@
 
 ---
 
-<!-- ABOUT SECTION -->
 <h2 align="center">🌟 About Me 🌟</h2>
 
 - 🔭 **Building Scalable MERN Applications & UI/UX Designs**
@@ -28,7 +26,6 @@
 
 ---
 
-<!-- CONTACT SECTION -->
 <h2 align="center">📬 Connect with Me 📬</h2>
 <div align="center">
   <a href="mailto:vanshtambi@gmail.com">
@@ -44,29 +41,18 @@
 
 ---
 
-<!-- STATS SECTION -->
 <h2 align="center">📊 Stats & Insights 📊</h2>
 
 <div align="center">
-  <!-- LeetCode Stats -->
   <img src="https://leetcard.jacoblin.cool/vanshtambi?theme=light&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" />
   <br/><br/>
-
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=vansh-tambi&show_icons=true&theme=material-palenight&border_color=61dafb&border_radius=10" alt="GitHub Stats" />
   <br/><br/>
-
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh-tambi&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" alt="GitHub Contribution Graph" />
-  <br/><br/>
-
-  <!-- GitHub Metrics -->
-  <img src="https://metrics.lecoq.io/vansh-tambi?template=classic&languages=1&isocalendar=1&achievements=1&notable=1&lines=1&activity=1&activity.limit=5&base=header,activity" alt="GitHub Metrics" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh-tambi&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true" alt="GitHub Contribution Graph" />
 </div>
 
 ---
 
-<!-- SKILLS SECTION -->
 <h2 align="center">🛠 Tech Stack & Tools 🛠</h2>
 
 <div align="center">
@@ -75,7 +61,6 @@
 
 ---
 
-<!-- ACHIEVEMENTS -->
 <h2 align="center">🏆 Achievements & Certifications 🏆</h2>
 
 ### 🏅 Competitive Programming:
@@ -89,7 +74,6 @@
 
 ---
 
-<!-- PROJECTS -->
 <h2 align="center">🚀 Projects 🚀</h2>
 
 ### 🛠 **Notable Projects**
@@ -105,3 +89,7 @@
 ---
 
 <h3 align="center">✨ Thanks for visiting! Let's Connect! ✨</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
