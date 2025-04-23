@@ -21,7 +21,7 @@
 - 🔭 <span style="color:#00FF00;">**Building Scalable MERN Applications & UI/UX Designs**</span>
 - 🌱 <span style="color:#00FF00;">**Exploring Next.js, Cloud Computing & Advanced DSA**</span>
 - 🎯 <span style="color:#00FF00;">**Passionate about creating user-friendly web solutions**</span>
-- 🏆 <span style="color:#00FF00;">**LeetCode Max Rating: 1503 | CodeChef: 1483 | Coding Ninjas: 1399**</span>
+- 🏆 <span style="color:#00FF00;">**LeetCode: 1503 | CodeChef: 1483 | Coding Ninjas: 1399**</span>
 - ⚡ <span style="color:#00FF00;">**Side Hustles: Stock Market Enthusiast & Content Creator**</span>
 
 ---
