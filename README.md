@@ -5,7 +5,7 @@
 <h3 align="center" style="color:#00FF00;">🚀 Full-Stack Developer | Competitive Programmer | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vansh-tambi.vansh-tambi" alt="Profile Views" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=vansh-tambi.vansh-tambi" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/vansh-tambi?color=00FF00&logo=Handshake" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/vansh-tambi?color=00FF00&logo=Undertale" alt="GitHub Stars" />
 </p>
