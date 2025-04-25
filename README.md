@@ -91,15 +91,15 @@
 <!-- 🚀 PROJECTS -->
 <h2 align="center">🚀 Projects</h2>
 
-### 🧑‍🏫 [StudyNotion (EdTech Platform)](https://github.com/vansh-tambi/StudyNotion)
+### 🚗 [DrivOn (Ride Booking Platform)](https://drivon.onrender.com/)
+- Full-stack ride-booking application for seamless cab reservations
+- Features include live fare estimates, driver/user authentication & booking history
+- Integrated secure login, route visualization, and payment-ready UI
+
+  ### 🧑‍🏫 [StudyNotion (EdTech Platform)](https://github.com/vansh-tambi/StudyNotion)
 - MERN stack project for course creation, payments & streaming
 - Cloudinary for media, Razorpay for transactions
 - Role-based auth with OTP, JWT, and admin dashboard
-
-### 🛍 [Ecomzy (E-Commerce Site)](https://github.com/vansh-tambi/Ecommerce-Website)
-- Full-featured e-commerce platform
-- Optimized search & filtering (query latency ↓ by 40%)
-- Interactive UI with cart, checkout, and payment
 
 ---
 
