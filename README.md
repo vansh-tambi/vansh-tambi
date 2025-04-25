@@ -144,3 +144,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=60&section=footer"/>
 </p>
+</br>
+
+<p align="center">
+  <img src="https://github.com/vansh-tambi/vansh-tambi/blob/main/qr.jpg?raw=true" width="200" alt="Buy Me a Coffee QR" />
+</p>
+
+<h3 align="center">
+  Andi Mandi Sandi jo Paytm nahi kia Uski maa randi 💦
+</h3>
