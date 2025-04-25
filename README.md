@@ -11,15 +11,20 @@
   🚀 Full-Stack Developer | UI/UX Enthusiast | Competitive Programmer
 </h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="120" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="120" />
+</p>
+
 ---
 
 <!-- 🔥 PROFILE STATS & BADGES -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/vansh-tambi?color=7B68EE&label=Followers&logo=github&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/vansh-tambi?color=FF00FF&label=Stars&logo=github&style=for-the-badge" />
-  <img src="https://badgen.net/github/commits/vansh-tambi/vansh-tambi?color=00FF00&label=Total%20Commits&icon=github" />
+  <img src="https://img.shields.io/badge/Public%20Repos-25-%2300FF00?style=for-the-badge&logo=github" />
 </p>
-
 
 ---
 
@@ -29,14 +34,16 @@
 </h2>
 
 <div align="center">
-  
   🧠 MERN Stack Dev with an eye for design.  
   🔐 Building secure, scalable apps & stunning UI.  
-  🧪 Exploring GSAP, Next.js, and Cloud Tech.  
-  🧮 Solved 600+ DSA problems across LeetCode, CodeChef, CN.  
+  🌐 Exploring GSAP, Next.js, and Cloud Tech.  
+  📚 Solved 600+ DSA problems across LeetCode, CodeChef, CN.  
   🕹️ Gamer | Designer | Market Geek.
-
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
 ---
 
@@ -65,12 +72,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-tambi&layout=compact&theme=tokyonight&border_color=00FF00&border_radius=10" width="300" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" />
+</p>
+
 ---
 
 <!-- ⚙️ TECH STACK -->
 <h2 align="center">⚙️ Tech Stack & Tools</h2>
 <p align='center'>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,redux,firebase,git,github,docker,postman,figma,cpp,ae,pr,ps,canva,picsart" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="200" />
 </p>
 
 ---
@@ -80,11 +95,11 @@
 
 ### 🏅 Competitive Programming:
 - ✅ Solved 600+ DSA problems across **LeetCode (1503)**, **CodeChef (1483)**, **CN (1399)**
-- 🧠 Strengthened algorithmic thinking & logical problem-solving
+- 📈 Strengthened logic & coding patterns
 
 ### 📜 Certifications:
-- 🏆 Smart India Hackathon 2024 — Developed EdTech platform in a team of 5
-- 👨‍💻 IICPC — Participated in Inter-IIT Competitive Programming Conclave
+- 🏆 **Smart India Hackathon 2024** — Built EdTech platform in a team of 5
+- 👨‍💻 **IICPC** — Inter-IIT Competitive Programming Conclave participant
 
 ---
 
@@ -92,13 +107,13 @@
 <h2 align="center">🚀 Projects</h2>
 
 ### 🚗 [DrivOn (Ride Booking Platform)](https://drivon.onrender.com/)
-- Full-stack ride-booking application for seamless cab reservations
-- Features include live fare estimates, driver/user authentication & booking history
-- Integrated secure login, route visualization, and payment-ready UI
+- Full-stack ride-booking application for seamless cab reservations  
+- Features include live fare estimates, driver/user authentication & booking history  
+- Integrated secure login, route visualization, and payment-ready UI  
 
-  ### 🧑‍🏫 [StudyNotion (EdTech Platform)](https://github.com/vansh-tambi/StudyNotion)
-- MERN stack project for course creation, payments & streaming
-- Cloudinary for media, Razorpay for transactions
+### 🧑‍🏫 [StudyNotion (EdTech Platform)](https://github.com/vansh-tambi/StudyNotion)
+- MERN stack project for course creation, payments & streaming  
+- Cloudinary for media, Razorpay for transactions  
 - Role-based auth with OTP, JWT, and admin dashboard
 
 ---
