@@ -1,94 +1,116 @@
+<!-- ✨ AVATAR + TYPING GREETING -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200" />
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&color=%2300FF00&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+🌍;+I'm+Vansh+Tambi!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+🌍;+I'm+Vansh+Tambi!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center" style="color:#00FF00;">🚀 Full-Stack Developer | Competitive Programmer | UI/UX Enthusiast</h3>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=vansh-tambi.vansh-tambi" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/vansh-tambi?color=00FF00&logo=Handshake" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/vansh-tambi?color=00FF00&logo=Undertale" alt="GitHub Stars" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px">
-</p>
+<h3 align="center">
+  🚀 Full-Stack Developer | UI/UX Enthusiast | Competitive Programmer
+</h3>
 
 ---
 
-<h2 align="center" style="color:#00FF00;">🌟 About Me 🌟</h2>
+<!-- 🔥 PROFILE STATS & BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/vansh-tambi?color=7B68EE&label=Followers&logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/vansh-tambi?color=FF00FF&label=Stars&logo=github&style=for-the-badge" />
+  <img src="https://badgen.net/github/commits/vansh-tambi/vansh-tambi?color=00FF00&label=Total%20Commits&icon=github" />
+</p>
 
-- 🔭 <span style="color:#00FF00;">**Building Scalable MERN Applications & UI/UX Designs**</span>
-- 🌱 <span style="color:#00FF00;">**Exploring Next.js, Cloud Computing & Advanced DSA**</span>
-- 🎯 <span style="color:#00FF00;">**Passionate about creating user-friendly web solutions**</span>
-- 🏆 <span style="color:#00FF00;">**LeetCode: 1503 | CodeChef: 1483 | Coding Ninjas: 1399**</span>
-- ⚡ <span style="color:#00FF00;">**Side Hustles: Stock Market Enthusiast & Content Creator**</span>
 
 ---
 
-<h2 align="center" style="color:#00FF00;">📬 Connect with Me 📬</h2>
+<!-- 🌟 ABOUT -->
+<h2 align="center">
+  🌟 About Me
+</h2>
+
 <div align="center">
+  
+  🧠 MERN Stack Dev with an eye for design.  
+  🔐 Building secure, scalable apps & stunning UI.  
+  🧪 Exploring GSAP, Next.js, and Cloud Tech.  
+  🧮 Solved 600+ DSA problems across LeetCode, CodeChef, CN.  
+  🕹️ Gamer | Designer | Market Geek.
+
+</div>
+
+---
+
+<!-- 📬 CONTACT -->
+<h2 align="center">📬 Connect With Me</h2>
+<p align="center">
   <a href="mailto:vanshtambi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00FF00?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-FF5555?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/vansh-tambi-16773227a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/vansh-tambi-16773227a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/vansh-tambi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/vansh-tambi">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
-<h2 align="center" style="color:#00FF00;">📊 Stats & Insights 📊</h2>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/vanshtambi?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vansh-tambi&show_icons=true&theme=dark&border_color=00FF00&border_radius=10" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh-tambi&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true&color=00FF00&line=00FF00&point=00FF00" alt="GitHub Contribution Graph" />
-</div>
-
----
-
-<h2 align="center" style="color:#00FF00;">🛠 Tech Stack & Tools 🛠</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,cpp,js,tailwind,redux,firebase,git,docker,figma,postman,latex,ae,pr,ps,canva,picsart" alt="Tech Stack" />
-</div>
+<!-- 📊 GITHUB STATS -->
+<h2 align="center">📊 Stats & Insights</h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vanshtambi?theme=dark&font=Fira%20Code&ext=activity" width="380" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=vansh-tambi&show_icons=true&theme=tokyonight&border_color=00FF00&border_radius=10" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-tambi&layout=compact&theme=tokyonight&border_color=00FF00&border_radius=10" width="300" />
+</p>
 
 ---
 
-<h2 align="center" style="color:#00FF00;">🏆 Achievements & Certifications 🏆</h2>
+<!-- ⚙️ TECH STACK -->
+<h2 align="center">⚙️ Tech Stack & Tools</h2>
+<p align='center'>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,redux,firebase,git,github,docker,postman,figma,cpp,ae,pr,ps,canva,picsart" />
+</p>
+
+---
+
+<!-- 🏆 ACHIEVEMENTS -->
+<h2 align="center">🏆 Achievements & Certifications</h2>
 
 ### 🏅 Competitive Programming:
-- **LeetCode:** Solved **600+ problems**, max rating **1503**.
-- **CodeChef:** Max rating **1483**, active in coding challenges.
-- **Coding Ninjas:** Max rating **1399**, certified in **DSA (C++)**.
+- ✅ Solved 600+ DSA problems across **LeetCode (1503)**, **CodeChef (1483)**, **CN (1399)**
+- 🧠 Strengthened algorithmic thinking & logical problem-solving
 
 ### 📜 Certifications:
-- **Smart India Hackathon:** Built an **innovative EdTech solution**.
-- **IICPC:** Competed in **Inter-IIT Programming Challenge**.
+- 🏆 Smart India Hackathon 2024 — Developed EdTech platform in a team of 5
+- 👨‍💻 IICPC — Participated in Inter-IIT Competitive Programming Conclave
 
 ---
 
-<h2 align="center" style="color:#00FF00;">🚀 Projects 🚀</h2>
+<!-- 🚀 PROJECTS -->
+<h2 align="center">🚀 Projects</h2>
 
-### 🛠 **Notable Projects**
-- **[StudyNotion (EdTech Platform)](https://github.com/vansh-tambi/StudyNotion)**
-  - **Built a full-stack learning platform** for instructors & students.
-  - **Integrated JWT authentication, Razorpay payments, and Cloudinary**.
-  - **Optimized video streaming & progress tracking**, reducing **load times by 30%**.
+### 🧑‍🏫 [StudyNotion (EdTech Platform)](https://github.com/vansh-tambi/StudyNotion)
+- MERN stack project for course creation, payments & streaming
+- Cloudinary for media, Razorpay for transactions
+- Role-based auth with OTP, JWT, and admin dashboard
 
-- **[Ecomzy (E-Commerce Platform)](https://github.com/vansh-tambi/Ecommerce-Website)**
-  - Developed a **modern e-commerce site** with cart & checkout functionality.
-  - Reduced **query latency by 40%** for better user experience.
+### 🛍 [Ecomzy (E-Commerce Site)](https://github.com/vansh-tambi/Ecommerce-Website)
+- Full-featured e-commerce platform
+- Optimized search & filtering (query latency ↓ by 40%)
+- Interactive UI with cart, checkout, and payment
 
 ---
 
-<h3 align="center" style="color:#00FF00;">✨ Thanks for visiting! Let's Connect! ✨</h3>
+<!-- 🔥 GIF FOOTER -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200" />
+</p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=5000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Thanks+for+visiting+💻;Let’s+build+something+awesome+🚀" />
+</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=60&section=footer"/>
