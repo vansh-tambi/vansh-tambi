@@ -84,6 +84,12 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" />
 </p>
 
+<!-- 📈 Github Daily Commit Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh-tambi&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true&color=00FF00&line=00FF00&point=00FF00" width="800"/>
+</p>
+
+
 
 ---
 
