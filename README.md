@@ -64,10 +64,18 @@
 ---
 
 <!-- 📊 GITHUB STATS -->
+<!-- 📊 GITHUB STATS -->
 <h2 align="center">📊 Stats & Insights</h2>
+
 <p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://leetcard.jacoblin.cool/vanshtambi?theme=dark&font=Fira%20Code&ext=activity" width="380" />
-  <br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/mEtSQlxqBtWWA/giphy.gif" width="100" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vansh-tambi&show_icons=true&theme=tokyonight&border_color=00FF00&border_radius=10" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-tambi&layout=compact&theme=tokyonight&border_color=00FF00&border_radius=10" width="300" />
 </p>
@@ -75,6 +83,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" />
 </p>
+
 
 ---
 
@@ -128,5 +137,10 @@
 </h3>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=60&section=footer"/>
 </p>
+
