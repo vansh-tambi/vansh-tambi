@@ -1,20 +1,20 @@
 <!-- ✨ AVATAR + TYPING GREETING -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200" />
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" />
 </p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+🌍;+I'm+Vansh+Tambi!" alt="Typing SVG" />
 </h1>
 
+
 <h3 align="center" style="color: #00FF00;">
   🚀 Full-Stack Developer | UI/UX Enthusiast | Competitive Programmer
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="120" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZzOXV0encwaG5tNGNjdm9qNGh6ZHhiOXo1N3ViODQ5OG5nNXdqdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NGQ5dZFt4WPrq/giphy.gif" width="300" />
+  
 </p>
 
 ---
@@ -38,6 +38,7 @@
   📚 Solved 600+ DSA problems across LeetCode, CodeChef, CN.  
   🕹️ Gamer | Designer | Market Geek.
 </div>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -65,11 +66,11 @@
 <h2 align="center" style="color: #00FF00;">📊 Stats & Insights</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://leetcard.jacoblin.cool/vanshtambi?theme=dark&font=Fira%20Code&ext=activity" width="380" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/mEtSQlxqBtWWA/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/mEtSQlxqBtWWA/giphy.gif" width="250" />
 </p>
 
 <p align="center">
@@ -130,11 +131,14 @@
 
 <!-- 🔥 GIF FOOTER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdoejJ6aDB5YnM2ZWljbGZ2MXpmcGp2bjBlMXAwbGFxNXBybGZsZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8Frnb1gJvSiv0yPZsg/giphy.gif" width="250" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/BMTzHbtf96few/giphy.gif?cid=ecf05e47rl9j3smk9pvzppuwtowk28payu538lsqvgjr0n1o&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" />
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=5000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Thanks+for+visiting+💻;Let’s+build+something+awesome+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=5000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=Thanks+for+visiting+💻;Let’s+build+something+awesome+🚀" />
 </h3>
 
 <p align="center">
@@ -153,3 +157,8 @@
 <h3 align="center">
   Andi Mandi Sandi jo Paytm nahi kia Uski maa randi 💦
 </h3>
+
+<p align="center">
+  
+  <img src="https://media.giphy.com/media/ez61hBpg1t9TDC8g3G/giphy.gif?cid=ecf05e47weu3odqfd7pk2qkpfg55zhh9roeroh2mv6ixfypm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" />
+</p>
