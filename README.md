@@ -79,7 +79,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWo1OGxyN3Vxemh3MHk1amtidnkxZ2g4NXV4NmI5b2V3ODdqbWc0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LLHkw7UnvY3Kw/giphy.gif" width="250"/>
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzk4ejA1ZTluYjlzam01ejkwdzhwc2EzcnhkdDRiMHczdGRlNjk1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mkhMTALnrYRLnuoe5P/giphy.gif" width="250" />
+  
 </p>
 
 <!-- 📈 Github Daily Commit Graph -->
