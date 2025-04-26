@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+🌍;+I'm+Vansh+Tambi!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=100&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+🌍;+I'm+Vansh+Tambi!" alt="Typing SVG" />
 </h1>
 
 
@@ -41,7 +41,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWU5MjV5ejhmem16dmp1bndlbjNpa21sNXU5emM3MnRvcmpscHE5ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Chak8JwwwraT5HnN5J/giphy.gif" width="300" />
 </p>
 
 ---
@@ -66,11 +66,11 @@
 <h2 align="center" style="color: #00FF00;">📊 Stats & Insights</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/RJtdD0BtR9aOVMaxOl/giphy.gif?cid=ecf05e47tmbweiqqwt55mp45y4v20x4btrl7lhb07lyb7nym&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://leetcard.jacoblin.cool/vanshtambi?theme=dark&font=Fira%20Code&ext=activity" width="380" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/mEtSQlxqBtWWA/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/x75bNKgNhYILXvGt8R/giphy.gif?cid=ecf05e47rrigyqlohdtauch57olaznt1ze0o8agwzhe8wvge&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" />
 </p>
 
 <p align="center">
@@ -133,8 +133,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdoejJ6aDB5YnM2ZWljbGZ2MXpmcGp2bjBlMXAwbGFxNXBybGZsZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8Frnb1gJvSiv0yPZsg/giphy.gif" width="250" />
 </p>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/BMTzHbtf96few/giphy.gif?cid=ecf05e47rl9j3smk9pvzppuwtowk28payu538lsqvgjr0n1o&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" />
+    <img src="https://media.giphy.com/media/BMTzHbtf96few/giphy.gif?cid=ecf05e47rl9j3smk9pvzppuwtowk28payu538lsqvgjr0n1o&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350" />
 </p>
 
 <h3 align="center">
