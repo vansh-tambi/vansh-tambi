@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansh-tambi&show_icons=true&theme=tokyonight&border_color=00FF00&border_radius=10&icon_color=00FF00&title_color=00FF00&text_color=00FF00" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vansh-tambi&show_icons=true&theme=tokyonight&border_color=00FF00&border_radius=10&icon_color=00FF00&title_color=00FF00&text_color=00FF00" width="300" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-tambi&layout=compact&theme=tokyonight&border_color=00FF00&border_radius=10&title_color=00FF00&text_color=00FF00" width="300" />
 </p>
 
