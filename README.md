@@ -141,16 +141,8 @@
     <img src="https://media.giphy.com/media/BMTzHbtf96few/giphy.gif?cid=ecf05e47rl9j3smk9pvzppuwtowk28payu538lsqvgjr0n1o&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350" />
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=5000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=Thanks+for+visiting+💻;Let’s+build+something+awesome+🚀" />
-</h3>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=60&section=footer"/>
 </p>
 </br>
 
@@ -162,7 +154,14 @@
   Andi Mandi Sandi jo Paytm nahi kia Uski **************💦
 </h3>
 
+
 <p align="center">
   
   <img src="https://media.giphy.com/media/ez61hBpg1t9TDC8g3G/giphy.gif?cid=ecf05e47weu3odqfd7pk2qkpfg55zhh9roeroh2mv6ixfypm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" />
+</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=5000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=Thanks+for+visiting+💻;Let’s+build+something+awesome+🚀" />
+</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=60&section=footer"/>
 </p>
