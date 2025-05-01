@@ -66,7 +66,7 @@
 <h2 align="center" style="color: #00FF00;">📊 Stats & Insights</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RJtdD0BtR9aOVMaxOl/giphy.gif?cid=ecf05e47tmbweiqqwt55mp45y4v20x4btrl7lhb07lyb7nym&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" />
+  <img src="https://media.giphy.com/media/RJtdD0BtR9aOVMaxOl/giphy.gif?cid=ecf05e47tmbweiqqwt55mp45y4v20x4btrl7lhb07lyb7nym&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://leetcard.jacoblin.cool/vanshtambi?theme=dark&font=Fira%20Code&ext=activity" width="350" />
   &nbsp;&nbsp;&nbsp;&nbsp;
