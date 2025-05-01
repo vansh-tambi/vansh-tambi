@@ -70,7 +70,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://leetcard.jacoblin.cool/vanshtambi?theme=dark&font=Fira%20Code&ext=activity" width="350" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/x75bNKgNhYILXvGt8R/giphy.gif?cid=ecf05e47rrigyqlohdtauch57olaznt1ze0o8agwzhe8wvge&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" />
+  <img src="https://media.giphy.com/media/x75bNKgNhYILXvGt8R/giphy.gif?cid=ecf05e47rrigyqlohdtauch57olaznt1ze0o8agwzhe8wvge&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180" />
 </p>
 
 <p align="center">
