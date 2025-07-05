@@ -133,13 +133,6 @@
 ---
 
 <!-- 🔥 GIF FOOTER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdoejJ6aDB5YnM2ZWljbGZ2MXpmcGp2bjBlMXAwbGFxNXBybGZsZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8Frnb1gJvSiv0yPZsg/giphy.gif" width="250" />
-</p>
-
-<p align="center">
-    <img src="https://media.giphy.com/media/BMTzHbtf96few/giphy.gif?cid=ecf05e47rl9j3smk9pvzppuwtowk28payu538lsqvgjr0n1o&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350" />
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700"/>
@@ -151,7 +144,7 @@
 </p>
 
 <h3 align="center">
-  Andi Mandi Sandi jo Paytm nahi kia Uski **************💦
+  Buy me a Coffee 🔫.
 </h3>
 
 
