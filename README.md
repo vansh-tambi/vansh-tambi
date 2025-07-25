@@ -12,10 +12,6 @@
   🚀 Full-Stack Developer | UI/UX Enthusiast | Competitive Programmer
 </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZzOXV0encwaG5tNGNjdm9qNGh6ZHhiOXo1N3ViODQ5OG5nNXdqdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NGQ5dZFt4WPrq/giphy.gif" width="300" />
-  
-</p>
 
 ---
 
@@ -79,9 +75,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWo1OGxyN3Vxemh3MHk1amtidnkxZ2g4NXV4NmI5b2V3ODdqbWc0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LLHkw7UnvY3Kw/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzk4ejA1ZTluYjlzam01ejkwdzhwc2EzcnhkdDRiMHczdGRlNjk1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mkhMTALnrYRLnuoe5P/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWo1OGxyN3Vxemh3MHk1amtidnkxZ2g4NXV4NmI5b2V3ODdqbWc0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LLHkw7UnvY3Kw/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzk4ejA1ZTluYjlzam01ejkwdzhwc2EzcnhkdDRiMHczdGRlNjk1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mkhMTALnrYRLnuoe5P/giphy.gif" width="100" />
   
 </p>
 
