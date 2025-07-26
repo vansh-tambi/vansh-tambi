@@ -62,11 +62,11 @@
 <h2 align="center" style="color: #00FF00;">📊 Stats & Insights</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RJtdD0BtR9aOVMaxOl/giphy.gif?cid=ecf05e47tmbweiqqwt55mp45y4v20x4btrl7lhb07lyb7nym&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" />
+
+
+  <img src="https://leetcard.jacoblin.cool/vanshtambi?theme=dark&font=Fira%20Code&ext=activity" width="450" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://leetcard.jacoblin.cool/vanshtambi?theme=dark&font=Fira%20Code&ext=activity" width="350" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/x75bNKgNhYILXvGt8R/giphy.gif?cid=ecf05e47rrigyqlohdtauch57olaznt1ze0o8agwzhe8wvge&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180" />
+  
 </p>
 
 <p align="center">
@@ -74,12 +74,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-tambi&layout=compact&theme=tokyonight&border_color=00FF00&border_radius=10&title_color=00FF00&text_color=00FF00" width="300" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWo1OGxyN3Vxemh3MHk1amtidnkxZ2g4NXV4NmI5b2V3ODdqbWc0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LLHkw7UnvY3Kw/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzk4ejA1ZTluYjlzam01ejkwdzhwc2EzcnhkdDRiMHczdGRlNjk1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mkhMTALnrYRLnuoe5P/giphy.gif" width="100" />
-  
-</p>
 
 <!-- 📈 Github Daily Commit Graph -->
 <p align="center">
