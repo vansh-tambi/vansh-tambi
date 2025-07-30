@@ -1,7 +1,3 @@
-<!-- ✨ AVATAR + TYPING GREETING -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" />
-</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=100&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+🌍;+I'm+Vansh+Tambi!" alt="Typing SVG" />
@@ -138,10 +134,6 @@
 </h3>
 
 
-<p align="center">
-  
-  <img src="https://media.giphy.com/media/ez61hBpg1t9TDC8g3G/giphy.gif?cid=ecf05e47weu3odqfd7pk2qkpfg55zhh9roeroh2mv6ixfypm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" />
-</p>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=5000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=Thanks+for+visiting+💻;Let’s+build+something+awesome+🚀" />
 </h3>
