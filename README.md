@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/vansh-tambi?color=00FF00&label=Followers&logo=github&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/vansh-tambi?color=00FF00&label=Stars&logo=github&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Public%20Repos-25-%2300FF00?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Public%20Repos-31-%2300FF00?style=for-the-badge&logo=github" />
 </p>
 
 ---
