@@ -1,13 +1,10 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=100&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+🌍;+I'm+Vansh+Tambi!" alt="Typing SVG" />
 </h1>
 
-
 <h3 align="center" style="color: #00FF00;">
   🚀 Full-Stack Developer | UI/UX Enthusiast | Competitive Programmer
 </h3>
-
 
 ---
 
@@ -24,12 +21,14 @@
 <h2 align="center" style="color: #00FF00;">🌟 About Me</h2>
 
 <div align="center">
-  🧠 MERN Stack Dev with an eye for design.  
-  🔐 Building secure, scalable apps & stunning UI.  
-  🌐 Exploring GSAP, Next.js, and Cloud Tech.  
-  📚 Solved 600+ DSA problems across LeetCode, CodeChef, CN.  
-  🕹️ Gamer | Designer | Market Geek.
+  🧠 Full-Stack Developer with experience building **production-grade MERN applications**.<br/>
+  🔐 Skilled in secure verification systems, OTP/email token flows, rate-limiting, and **Redis + BullMQ workers**.<br/>
+  ⚡ Worked on scalable backend APIs, onboarding pipelines, and system observability with Sentry.<br/>
+  🤖 Built AI-assisted systems using React 19, Fastify, PDF parsing, and **Gemini-powered clause extraction**.<br/>
+  🎨 UI/UX and animation enthusiast using GSAP, Tailwind, and Framer Motion.<br/>
+  📚 Solved 600+ DSA problems across LeetCode, CodeChef, and Coding Ninjas.
 </div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="center">
@@ -58,11 +57,7 @@
 <h2 align="center" style="color: #00FF00;">📊 Stats & Insights</h2>
 
 <p align="center">
-
-
   <img src="https://leetcard.jacoblin.cool/vanshtambi?theme=dark&font=Fira%20Code&ext=activity" width="450" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
 </p>
 
 <p align="center">
@@ -70,8 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-tambi&layout=compact&theme=tokyonight&border_color=00FF00&border_radius=10&title_color=00FF00&text_color=00FF00" width="300" />
 </p>
 
-
-<!-- 📈 Github Daily Commit Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh-tambi&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true&color=00FF00&line=00FF00&point=00FF00" width="800"/>
 </p>
@@ -94,36 +87,42 @@
 <h2 align="center" style="color: #00FF00;">🏆 Achievements & Certifications</h2>
 
 ### 🏅 Competitive Programming:
-- ✅ Solved 600+ DSA problems across **LeetCode (1503)**, **CodeChef (1483)**, **CN (1399)**
-- 📈 Strengthened logic & coding patterns
+- Solved **600+ DSA problems** across LeetCode, CodeChef & CN  
+- Strong grasp of logic, patterns, and problem-solving under constraints
 
-### 📜 Certifications:
-- 🏆 **Smart India Hackathon 2024** — Built EdTech platform in a team of 5  
-- 👨‍💻 **IICPC** — Inter-IIT Competitive Programming Conclave participant
+### 📜 Certifications & Achievements:
+- 🏆 **Smart India Hackathon 2024** — AI/ML-powered EdTech platform  
+- 🎯 3rd place (Top 2%) out of 150 teams at **InnovateX**  
+- 👨‍💻 **IICPC** — Delivered 15+ accurate solutions under time pressure  
+- ⚡ Advanced to Round 2 of **HackX 3.0**  
 
 ---
 
 <!-- 🚀 PROJECTS -->
 <h2 align="center" style="color: #00FF00;">🚀 Projects</h2>
 
-### 🚗 [DrivOn (Ride Booking Platform)](https://drivon.onrender.com/)
-- Full-stack ride-booking application for seamless cab reservations  
-- Features include live fare estimates, driver/user authentication & booking history  
-- Integrated secure login, route visualization, and payment-ready UI  
+### 🚗 DrivOn (Ride Booking Platform)
+- Cab booking system with fare estimates, route visualization, and strong user auth  
+- Includes booking history, secure login, and optimized UI for real-time interactions
 
-### 🧑‍🏫 [StudyNotion (EdTech Platform)](https://github.com/vansh-tambi/StudyNotion)
-- MERN stack project for course creation, payments & streaming  
-- Cloudinary for media, Razorpay for transactions  
-- Role-based auth with OTP, JWT, and admin dashboard
+### 🧑‍🏫 StudyNotion (EdTech Platform)
+- MERN-based course platform with payments (Razorpay) and Cloudinary media handling  
+- Built full role-based system with OTP login, JWT auth, and an admin dashboard
+
+### 👗 OutFytly – Fashion Rental Marketplace
+- Complete rental marketplace with multi-step checkout, Razorpay, Cloudinary  
+- Global state management, smooth UX transitions, seller/admin workflows
+
+### ⚖️ AI Legal Assistant
+- React + Fastify system with PDF parsing, vision models & Gemini  
+- Extracts clauses, identifies legal risks with 90%+ accuracy, generates structured insights
 
 ---
 
 <!-- 🔥 GIF FOOTER -->
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700"/>
 </p>
-</br>
 
 <p align="center">
   <img src="https://github.com/vansh-tambi/vansh-tambi/blob/main/qr.jpg?raw=true" width="200" alt="Buy Me a Coffee QR" />
@@ -133,10 +132,10 @@
   Buy me a Coffee 🔫.
 </h3>
 
-
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=5000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=Thanks+for+visiting+💻;Let’s+build+something+awesome+🚀" />
 </h3>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=60&section=footer"/>
 </p>
