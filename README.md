@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="color: #00FF00;">
-  🚀 Full-Stack Developer | UI/UX Enthusiast | Competitive Programmer
+  🚀 Full-Stack Developer | UI/UX Enthusiast | Competitive Programmer | Graphic Deginer | Video Editor
 </h3>
 
 ---
