@@ -122,12 +122,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansh-tambi&show_icons=true&theme=tokyonight&border_color=00FF00&title_color=00FF00&icon_color=00FF00&text_color=00FF00" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-tambi&layout=compact&theme=tokyonight&border_color=00FF00&title_color=00FF00&text_color=00FF00" width="300" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh-tambi&theme=github-dark-dimmed&color=00FF00&line=00FF00&point=00FF00&hide_border=true" width="800"/>
+  <img src="https://ghchart.rshah.org/00FF00/vansh-tambi" alt="Vansh's Github Chart" />
 </p>
 
 ---
