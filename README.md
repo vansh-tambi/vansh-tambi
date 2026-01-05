@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="color:#00FF00;">
-  🚀 Full-Stack Developer | MERN • Systems • Scalable APIs | Competitive Programmer
+  🚀 Full-Stack Developer | MERN Stack | Competitive Programmer
 </h3>
 
 ---
@@ -19,14 +19,13 @@
 <h2 align="center">🌟 About Me</h2>
 
 <div align="center">
-  🧠 <b>Full-Stack Developer @ Maya Exchange</b> building secure, high-fidelity onboarding systems.<br/>
+  🧠 <b>Full-Stack Developer @ Maya Exchange</b> working on secure user onboarding.<br/>
   🎓 B.Tech in <b>Computer Science and Engineering</b> from IIIT Bhopal.<br/>
-  ⚙️ Expert in <b>Asynchronous Backend Architectures</b> using Node.js, Redis, and BullMQ.<br/>
-  🔐 Experienced in implementing <b>SHA-256 hashing, IP-rate limiting, and PII protection</b>.<br/>
-  🚀 Optimized production APIs to achieve <b>sub-300ms median latency</b>.<br/>
-  🤖 Creating AI-driven platforms with <b>Gemini models, context-aware pipelines, and fallback systems</b>.<br/>
-  🎨 UI/UX enthusiast crafting responsive interfaces with <b>React, Tailwind, GSAP, and Framer Motion</b>.<br/>
-  📚 Competitive programmer with <b>850+ DSA problems</b> solved (Max Rating: 1623 CodeChef).
+  ⚙️ Experienced in building <b>fast and scalable backends</b> using Node.js & Redis.<br/>
+  🔐 Focused on <b>web security</b> and protecting user data.<br/>
+  🤖 Building <b>AI-powered apps</b> using Gemini and smart automation.<br/>
+  🎨 UI/UX enthusiast crafting smooth interfaces with <b>React & Tailwind</b>.<br/>
+  📚 Competitive programmer with <b>850+ problems solved</b> (Max Rating: 1623 CodeChef).
 </div>
 
 <br/>
@@ -40,32 +39,21 @@
 <h2 align="center">🔥 Currently Working On</h2>
 
 <div align="center">
-  • <b>Maya Exchange (Full-Stack Developer):</b> Architecting secure pre-signup platforms.<br/>
-  • Orchestrating async job queues for transactional email/SMS using <b>Redis & BullMQ</b>.<br/>
-  • Enforcing strict data validation (Zod) and server-side security measures.<br/>
-  • Building fallback-resilient AI systems for interview simulation.
+  • <b>Maya Exchange:</b> Building the pre-signup platform.<br/>
+  • Handling background tasks like emails/SMS efficiently using <b>Redis</b>.<br/>
+  • Ensuring all user data is valid and secure.<br/>
+  • Integrating AI features to improve user experience.
 </div>
 
 ---
 
-<h2 align="center">⚙️ Backend & Systems Experience</h2>
+<h2 align="center">⚙️ What I Do</h2>
 
 <div align="center">
-  • <b>High-Performance APIs:</b> REST API design achieving <300ms latency targets.<br/>
-  • <b>Security Engineering:</b> E.164 formatting, disposable email blocking, and token hashing.<br/>
-  • <b>Database Management:</b> Complex schema design with MongoDB, PostgreSQL, and MySQL.<br/>
-  • <b>DevOps & Cloud:</b> Deployment on Vercel/Render, Docker, and CI/CD pipelines.
-</div>
-
----
-
-<h2 align="center">🤖 AI & Applied Intelligence</h2>
-
-<div align="center">
-  • <b>MockMate:</b> AI Interviewer with 3-tier Gemini fallback & 100-point deterministic scoring.<br/>
-  • <b>Context-Aware Pipelines:</b> Resume parsing and dynamic question generation.<br/>
-  • <b>Smart India Hackathon:</b> Developed an AI/ML career counseling chatbot architecture.<br/>
-  • <b>Legal Tech:</b> AI Legal Advisor for automated contract analysis (HackX 3.0).
+  • <b>Backend Development:</b> Creating fast APIs and managing databases (MongoDB/SQL).<br/>
+  • <b>Security:</b> Implementing secure login systems and data protection.<br/>
+  • <b>DevOps:</b> Deploying apps on the cloud (Vercel/Render) and using Docker.<br/>
+  • <b>Frontend:</b> Building responsive websites with modern animations.
 </div>
 
 ---
@@ -85,10 +73,10 @@
 <h2 align="center">🏆 Achievements</h2>
 
 <div align="center">
-  🥉 <b>InnovateX Hackathon</b> – Winner (3rd / 150 teams) for Fintech Solution.<br/>
-  🇮🇳 <b>Smart India Hackathon 2024</b> – Contributed to AI/ML Career Counseling System.<br/>
+  🥉 <b>InnovateX Hackathon</b> – Winner (3rd Place) for a Fintech Project.<br/>
+  🇮🇳 <b>Smart India Hackathon 2024</b> – Contributed to an AI Career Counseling System.<br/>
   ⚡ <b>HackX 3.0</b> – Round 2 Qualifier (AI Legal Advisor).<br/>
-  🧠 <b>IICPC</b> – Competitive programming under strict constraints.<br/><br/>
+  🧠 <b>IICPC</b> – Competed in high-pressure coding contests.<br/><br/>
   📊 <b>Competitive Programming Ratings</b><br/>
   CodeChef: <b>1623</b> · LeetCode: <b>1555</b> · CodeStudios: <b>1399</b>
 </div>
@@ -99,20 +87,20 @@
 
 <div align="center">
   <b>🤖 MockMate – AI Interview Platform</b><br/>
-  <i>React, Node.js, Express, Gemini AI</i><br/>
-  Engineered an AI simulation with a 3-tier model fallback system, 30-60s timeout controls, and a deterministic scoring framework providing explainable feedback.<br/><br/>
+  <i>React, Node.js, Gemini AI</i><br/>
+  An AI tool that takes your interview, asks relevant questions based on your resume, and gives you a score with feedback.<br/><br/>
 
   <b>👗 OutFytly – Fashion Rental Marketplace</b><br/>
-  <i>MERN, Razorpay, Cloudinary, Redis</i><br/>
-  Devised a conflict-free scheduling system with real-time inventory locking. Integrated Cloudinary for automated asset optimization and lazy loading.<br/><br/>
+  <i>MERN Stack, Razorpay</i><br/>
+  A platform to rent fashion items with a smart scheduling system to prevent double-booking and fast image loading.<br/><br/>
 
   <b>🚗 DrivOn – Ride Booking Platform</b><br/>
-  <i>MERN Stack, Google Maps API</i><br/>
-  Cab booking system with fare estimation, route visualization, and secure authentication flows.<br/><br/>
+  <i>MERN Stack, Google Maps</i><br/>
+  A cab booking app with fare estimation, route tracking, and secure login.<br/><br/>
 
   <b>🧑‍🏫 StudyNotion – EdTech Platform</b><br/>
-  <i>MERN, JWT, Razorpay</i><br/>
-  Comprehensive learning platform with OTP login, admin dashboards, and payment integration.
+  <i>MERN, JWT</i><br/>
+  A complete learning platform for students and instructors with payment integration.
 </div>
 
 ---
@@ -120,9 +108,9 @@
 <h2 align="center">🎨 Creative & Leadership</h2>
 
 <div align="center">
-  <b>Graphic Design & Video Lead</b> – AARZOO (IIIT Bhopal) | 10K+ Views<br/>
-  <b>Social Media Manager</b> – AXIOS Technical Society<br/>
-  <b>Creative Lead</b> – PODYSSEY | Created viral content (1M+ views)
+  <b>Graphic Design & Video Lead</b> – AARZOO (IIIT Bhopal) | 10K+ Views on content.<br/>
+  <b>Social Media Manager</b> – AXIOS Technical Society.<br/>
+  <b>Creative Lead</b> – PODYSSEY | Created viral reels (1M+ views).
 </div>
 
 ---
