@@ -145,7 +145,7 @@
   <a href="https://github.com/vansh-tambi">
     <img src="https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-  <a href="https://leetcode.com/vansh-tambi/">
+  <a href="https://leetcode.com/vanshtambi/">
     <img src="https://img.shields.io/badge/LeetCode-00FF00?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
