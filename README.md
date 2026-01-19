@@ -136,9 +136,10 @@
 <h2 align="center">📬 Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:vanshtambi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00FF00?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vanshtambi@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-00FF00?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
+
   <a href="https://www.linkedin.com/in/vansh-tambi-16773227a/">
     <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
