@@ -21,13 +21,13 @@
 <h2 align="center">🌟 About Me</h2>
 
 <div align="center">
-  🧠 <b>Full-Stack Developer @ Maya Exchange</b> working on secure user onboarding.<br/>
-  🎓 B.Tech in <b>Computer Science and Engineering</b> from IIIT Bhopal.<br/>
-  ⚙️ Experienced in building <b>fast and scalable backends</b> using Node.js & Redis.<br/>
-  🔐 Focused on <b>web security</b> and protecting user data.<br/>
-  🤖 Building <b>AI-powered apps</b> using Gemini and smart automation.<br/>
-  🎨 UI/UX enthusiast crafting smooth interfaces with <b>React & Tailwind</b>.<br/>
-  📚 Competitive programmer with <b>850+ problems solved</b> (Max Rating: 1623 CodeChef).
+  🧠 <b>Full-Stack Developer @ Maya Exchange</b> — built a secure pre-signup platform with async backend.<br/>
+  🎓 B.Tech in <b>Computer Science and Engineering</b> from IIIT Bhopal (2023–2027).<br/>
+  ⚙️ Experienced in building <b>fast and scalable backends</b> using Node.js, Redis & BullMQ.<br/>
+  🔐 Focused on <b>web security</b> — SHA-256 hashing, rate limiting, and disposable email blocking.<br/>
+  🤖 Building <b>AI-powered apps</b> using local LLMs (Phi-3 via Ollama) for privacy-first solutions.<br/>
+  🎨 UI/UX enthusiast crafting smooth interfaces with <b>React, Tailwind, GSAP & Framer Motion</b>.<br/>
+  📚 Competitive programmer with <b>850+ problems solved</b> (Max Rating: 1625 CodeChef).
 </div>
 
 <br/>
@@ -38,24 +38,13 @@
 
 ---
 
-<h2 align="center">🔥 Currently Working On</h2>
+<h2 align="center">🔥 Experience</h2>
 
 <div align="center">
-  • <b>Maya Exchange:</b> Building the pre-signup platform.<br/>
-  • Handling background tasks like emails/SMS efficiently using <b>Redis</b>.<br/>
-  • Ensuring all user data is valid and secure.<br/>
-  • Integrating AI features to improve user experience.
-</div>
-
----
-
-<h2 align="center">⚙️ What I Do</h2>
-
-<div align="center">
-  • <b>Backend Development:</b> Creating fast APIs and managing databases (MongoDB/SQL).<br/>
-  • <b>Security:</b> Implementing secure login systems and data protection.<br/>
-  • <b>DevOps:</b> Deploying apps on the cloud (Vercel/Render) and using Docker.<br/>
-  • <b>Frontend:</b> Building responsive websites with modern animations.
+  <b>Full-Stack Developer — Maya Exchange (Remote) · Dec 2025 – Jan 2026</b><br/><br/>
+  • Built a secure pre-signup platform using <b>React</b> and <b>Zod</b> validation with E.164 phone formatting.<br/>
+  • Orchestrated an async backend using <b>Node.js, Redis & BullMQ</b> — API response time under 300ms.<br/>
+  • Enforced security with <b>SHA-256 token hashing</b>, disposable email blocking & IP-based rate limiting.
 </div>
 
 ---
@@ -63,7 +52,7 @@
 <h2 align="center">⚙️ Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,redux,redis,tailwind,git,github,postman,vscode,figma,ae,pr,ps,canva" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css,react,nextjs,nodejs,express,fastapi,mongodb,mysql,postgres,redux,redis,tailwind,gsap,threejs,git,github,postman,vscode,figma,ae,pr,ps,canva" />
 </p>
 
 <p align="center">
@@ -72,29 +61,16 @@
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
-
-<div align="center">
-  🥉 <b>InnovateX Hackathon</b> – Winner (3rd Place) for a Fintech Project.<br/>
-  🇮🇳 <b>Smart India Hackathon 2024</b> – Contributed to an AI Career Counseling System.<br/>
-  ⚡ <b>HackX 3.0</b> – Round 2 Qualifier (AI Legal Advisor).<br/>
-  🧠 <b>IICPC</b> – Competed in high-pressure coding contests.<br/><br/>
-  📊 <b>Competitive Programming Ratings</b><br/>
-  CodeChef: <b>1623</b> · LeetCode: <b>1555</b> · CodeStudios: <b>1399</b>
-</div>
-
----
-
 <h2 align="center">🚀 Projects</h2>
 
 <div align="center">
-  <b>🤖 MockMate – AI Interview Platform</b><br/>
-  <i>React, Node.js, Gemini AI</i><br/>
-  An AI tool that takes your interview, asks relevant questions based on your resume, and gives you a score with feedback.<br/><br/>
+  <b>🤖 MockMate – AI Interview Coach</b><br/>
+  <i>React, Node.js, Python, Local LLMs (Phi-3 via Ollama)</i><br/>
+  A privacy-first AI interview coaching platform running 100% offline. Features a 7-stage interview pipeline, 738+ questions across 67 dataset files, 24 roles and 8 domains, with a deterministic engine delivering 35 questions per interview and real-time feedback.<br/><br/>
 
   <b>👗 OutFytly – Fashion Rental Marketplace</b><br/>
-  <i>MERN Stack, Razorpay</i><br/>
-  A platform to rent fashion items with a smart scheduling system to prevent double-booking and fast image loading.<br/><br/>
+  <i>MERN Stack, Razorpay, Cloudinary, React Context</i><br/>
+  A full-stack fashion rental and e-commerce platform with 3 panels (Admin, Seller/Renter, Buyer/Renter). Integrated Razorpay for payments & refunds with idempotent logic. Live with 9 active users and 8 listed products.<br/><br/>
 
   <b>🚗 DrivOn – Ride Booking Platform</b><br/>
   <i>MERN Stack, Google Maps</i><br/>
@@ -107,12 +83,26 @@
 
 ---
 
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+  🥉 <b>InnovateX Ideathon</b> – 3rd out of 150 teams: Pitched a fintech solution to investors and 2500+ attendees.<br/>
+  🇮🇳 <b>Smart India Hackathon 2024</b> – Contributed to an AI Career Counseling System.<br/>
+  ⚡ <b>HackX 3.0</b> – Round 2 Qualifier at Manipal University Jaipur (AI Legal Advisor).<br/>
+  🧠 <b>IICPC</b> – Competed in high-pressure coding contests.<br/>
+  📜 <b>Certificate of Excellence</b> – Coding Studio DSA program.<br/><br/>
+  📊 <b>Competitive Programming Ratings</b><br/>
+  CodeChef: <b>1625</b> · LeetCode: <b>1555</b> · CodeStudio: <b>1399</b>
+</div>
+
+---
+
 <h2 align="center">🎨 Creative & Leadership</h2>
 
 <div align="center">
-  <b>Graphic Design & Video Lead</b> – AARZOO (IIIT Bhopal) | 10K+ Views on content.<br/>
-  <b>Social Media Manager</b> – AXIOS Technical Society.<br/>
-  <b>Creative Lead</b> – PODYSSEY | Created viral reels (1M+ views).
+  <b>Design Lead</b> – AARZOO, IIIT Bhopal | Led design for cultural fest Niimack, mentored junior members.<br/>
+  <b>Social Media Manager</b> – AXIOS Technical Society, IIIT Bhopal.<br/>
+  <b>Video Editor</b> – PODYSSEY | Edited podcasts and promotional reels for social media.
 </div>
 
 ---
@@ -137,9 +127,8 @@
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vanshtambi@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-00FF00?style=for-the-badge&logo=gmail&logoColor=black" />
-</a>
-
+    <img src="https://img.shields.io/badge/Gmail-00FF00?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
   <a href="https://www.linkedin.com/in/vansh-tambi-16773227a/">
     <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
@@ -161,7 +150,7 @@
 <h3 align="center">Buy me a Coffee 🔫</h3>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=5000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=Thanks+for+visiting+💻;Let’s+build+something+awesome+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=5000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=Thanks+for+visiting+💻;Let's+build+something+awesome+🚀" />
 </h3>
 
 <p align="center">
