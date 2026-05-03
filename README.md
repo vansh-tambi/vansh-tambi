@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="color:#00FF00;">
-  🚀 Full-Stack Developer | MERN Stack | Competitive Programmer
+  Full-Stack Developer &nbsp;|&nbsp; MERN Stack &nbsp;|&nbsp; Competitive Programmer
 </h3>
 
 ---
@@ -15,19 +15,18 @@
   <img src="https://img.shields.io/badge/Public%20Repos-31-00FF00?style=for-the-badge&logo=github" />
 </p>
 
-
 ---
 
-<h2 align="center">🌟 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <div align="center">
-  🧠 <b>Full-Stack Developer @ Maya Exchange</b> — built a secure pre-signup platform with async backend.<br/>
-  🎓 B.Tech in <b>Computer Science and Engineering</b> from IIIT Bhopal (2023–2027).<br/>
-  ⚙️ Experienced in building <b>fast and scalable backends</b> using Node.js, Redis & BullMQ.<br/>
-  🔐 Focused on <b>web security</b> — SHA-256 hashing, rate limiting, and disposable email blocking.<br/>
-  🤖 Building <b>AI-powered apps</b> using local LLMs (Phi-3 via Ollama) for privacy-first solutions.<br/>
-  🎨 UI/UX enthusiast crafting smooth interfaces with <b>React, Tailwind, GSAP & Framer Motion</b>.<br/>
-  📚 Competitive programmer with <b>850+ problems solved</b> (Max Rating: 1625 CodeChef).
+
+I'm a second-year CS undergrad at **IIIT Bhopal** who likes building things that actually work and look good doing it.
+
+I spent the last year going deep on full-stack development: shipped a real product at Maya Exchange, built an offline AI interview coach, and a fashion rental marketplace with real users. I care about the details — clean APIs, smooth UI, code that holds up under pressure.
+
+Outside of that I grind competitive programming (950+ problems, CodeChef max 1625) and help run the design and web teams at college. If I'm not coding, I'm probably editing a video or messing around in Figma.
+
 </div>
 
 <br/>
@@ -38,21 +37,38 @@
 
 ---
 
-<h2 align="center">🔥 Experience</h2>
+<h2 align="center">Experience</h2>
 
 <div align="center">
-  <b>Full-Stack Developer — Maya Exchange (Remote) · Dec 2025 – Jan 2026</b><br/><br/>
-  • Built a secure pre-signup platform using <b>React</b> and <b>Zod</b> validation with E.164 phone formatting.<br/>
-  • Orchestrated an async backend using <b>Node.js, Redis & BullMQ</b> — API response time under 300ms.<br/>
-  • Enforced security with <b>SHA-256 token hashing</b>, disposable email blocking & IP-based rate limiting.
+
+**Full-Stack Developer Intern at Maya Exchange (Remote) &nbsp; Dec 2025 to Jan 2026**
+
+Built the pre-signup flow from scratch using React and Zod with E.164 phone validation, disposable email blocking, and zero page reloads before any API call. On the backend, set up a Redis and BullMQ job queue for email/SMS workflows that kept response time under 300ms. Also handled SHA-256 token hashing and IP-based rate limiting to keep the system secure.
+
 </div>
 
 ---
 
-<h2 align="center">⚙️ Tech Stack & Tools</h2>
+<h2 align="center">Tech Stack</h2>
 
+<p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css,react,nextjs,nodejs,express,fastapi,mongodb,mysql,postgres,redux,redis,tailwind,gsap,threejs,git,github,postman,vscode,figma,ae,pr,ps,canva" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts" />
+</p>
+
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux" />
+</p>
+
+<p align="center"><b>Backend and Databases</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres,redis" />
+</p>
+
+<p align="center"><b>Tools and Design</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,ae,pr,ps" />
 </p>
 
 <p align="center">
@@ -61,69 +77,106 @@
 
 ---
 
-<h2 align="center">🚀 Projects</h2>
+<h2 align="center">Projects</h2>
 
 <div align="center">
-  <b>🤖 MockMate – AI Interview Coach</b><br/>
-  <i>React, Node.js, Python, Local LLMs (Phi-3 via Ollama)</i><br/>
-  A privacy-first AI interview coaching platform running 100% offline. Features a 7-stage interview pipeline, 738+ questions across 67 dataset files, 24 roles and 8 domains, with a deterministic engine delivering 35 questions per interview and real-time feedback.<br/><br/>
 
-  <b>👗 OutFytly – Fashion Rental Marketplace</b><br/>
-  <i>MERN Stack, Razorpay, Cloudinary, React Context</i><br/>
-  A full-stack fashion rental and e-commerce platform with 3 panels (Admin, Seller/Renter, Buyer/Renter). Integrated Razorpay for payments & refunds with idempotent logic. Live with 9 active users and 8 listed products.<br/><br/>
+**MockMate — AI Interview Coach**
+`React · Node.js · FastAPI · Python · Local LLMs (Phi-3/Ollama)`
 
-  <b>🚗 DrivOn – Ride Booking Platform</b><br/>
-  <i>MERN Stack, Google Maps</i><br/>
-  A cab booking app with fare estimation, route tracking, and secure login.<br/><br/>
+Wanted an interview prep tool that didn't send my answers to some random cloud, so I built one that runs fully offline. It has a 7-stage interview flow, pulls from 738+ questions across 67 datasets, covers 24 roles and 8 domains, and gives AI feedback locally via Ollama. No data leaves your machine.
 
-  <b>🧑‍🏫 StudyNotion – EdTech Platform</b><br/>
-  <i>MERN, JWT</i><br/>
-  A complete learning platform for students and instructors with payment integration.
+[GitHub](#) &nbsp; [Live](#)
+
+<br/>
+
+**OutFytly — Fashion Rental Marketplace**
+`MERN Stack · Razorpay · Cloudinary · React Context`
+
+A fashion rental platform with three dashboards for Admin, Seller, and Buyer. Integrated Razorpay with idempotent server-side verification so payments don't double-charge. Got the Lighthouse score to 90+ using code splitting and Cloudinary CDN. Currently live with real users.
+
+[GitHub](#) &nbsp; [Live](#)
+
+<br/>
+
+**DrivOn — Ride Booking App**
+`MERN Stack · Google Maps API`
+
+Cab booking app with fare estimation, route tracking via Google Maps, and JWT auth. Built it to understand real-time data flows end to end.
+
+<br/>
+
+**StudyNotion — EdTech Platform**
+`MERN Stack · JWT · Razorpay`
+
+A learning platform where instructors can create courses and students can buy and track them. Covers the full cycle: auth, payments, course progress, and dashboards.
+
 </div>
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
+<h2 align="center">Achievements</h2>
 
 <div align="center">
-  🥉 <b>InnovateX Ideathon</b> – 3rd out of 150 teams: Pitched a fintech solution to investors and 2500+ attendees.<br/>
-  🇮🇳 <b>Smart India Hackathon 2024</b> – Contributed to an AI Career Counseling System.<br/>
-  ⚡ <b>HackX 3.0</b> – Round 2 Qualifier at Manipal University Jaipur (AI Legal Advisor).<br/>
-  🧠 <b>IICPC</b> – Competed in high-pressure coding contests.<br/>
-  📜 <b>Certificate of Excellence</b> – Coding Studio DSA program.<br/><br/>
-  📊 <b>Competitive Programming Ratings</b><br/>
-  CodeChef: <b>1625</b> · LeetCode: <b>1555</b> · CodeStudio: <b>1399</b>
+
+**InnovateX Ideathon** — 3rd out of 150 teams. Pitched a fintech idea to investors in front of 2500+ people. One of the more nerve-wracking things I have done.
+
+**Smart India Hackathon 2024** — Worked on an AI Career Counseling system as part of the national-level submission.
+
+**HackX 3.0** — Made it to Round 2 at Manipal University Jaipur with an AI Legal Advisor concept.
+
+**IICPC** — Competed in the regional ICPC-style coding contest.
+
+**DSA Certification** — Coding Studio structured DSA program.
+
+**Generative AI with Python** — 32.5-hour Udemy course on LLM pipelines and agent workflows.
+
+<br/>
+
+| Platform | Rating |
+|----------|--------|
+| CodeChef | 1625 max &nbsp; AIR 39 in Starters 205 |
+| LeetCode | 1555 |
+| Problems Solved | 980+ across platforms |
+
 </div>
 
 ---
 
-<h2 align="center">🎨 Creative & Leadership</h2>
+<h2 align="center">Beyond Code</h2>
 
 <div align="center">
-  <b>Design Lead</b> – AARZOO, IIIT Bhopal | Led design for cultural fest Niimack, mentored junior members.<br/>
-  <b>Social Media Manager</b> – AXIOS Technical Society, IIIT Bhopal.<br/>
-  <b>Video Editor</b> – PODYSSEY | Edited podcasts and promotional reels for social media.
+
+**Web Dev Lead at AXIOS, IIIT Bhopal**
+Maintaining the society's platform and running sessions to help juniors get into web dev.
+
+**Design Lead at AARZOO, IIIT Bhopal**
+Led design for Niimack, our college cultural fest. Event posters, social creatives, the works. Also mentored the junior design team.
+
+**Video Editor at PODYSSEY**
+Edited podcasts and short-form promo content for social media. Turns out video editing and UI design scratch the same itch.
+
 </div>
 
 ---
 
-<h2 align="center">📊 Stats & Insights</h2>
+<h2 align="center">Stats</h2>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vanshtambi?theme=dark&font=Fira%20Code&ext=activity" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="600" />
+  <img src="https://streak-stats.demolab.com?user=vansh-tambi&theme=dark&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=888888" width="500" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00FF00/vansh-tambi" alt="Vansh's Github Chart" />
+  <img src="https://ghchart.rshah.org/00FF00/vansh-tambi" alt="Vansh's GitHub Contribution Chart" />
 </p>
 
 ---
 
-<h2 align="center">📬 Connect With Me</h2>
+<h2 align="center">Let's Connect</h2>
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vanshtambi@gmail.com" target="_blank" rel="noopener noreferrer">
