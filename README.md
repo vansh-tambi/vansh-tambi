@@ -86,7 +86,7 @@ Built the pre-signup flow from scratch using React and Zod with E.164 phone vali
 
 Wanted an interview prep tool that didn't send my answers to some random cloud, so I built one that runs fully offline. It has a 7-stage interview flow, pulls from 738+ questions across 67 datasets, covers 24 roles and 8 domains, and gives AI feedback locally via Ollama. No data leaves your machine.
 
-[GitHub](#) &nbsp; [Live](#)
+[GitHub](https://github.com/vansh-tambi/MockMate) &nbsp; [Live](https://mock-mate-ai-interview.vercel.app)
 
 <br/>
 
@@ -95,7 +95,7 @@ Wanted an interview prep tool that didn't send my answers to some random cloud, 
 
 A fashion rental platform with three dashboards for Admin, Seller, and Buyer. Integrated Razorpay with idempotent server-side verification so payments don't double-charge. Got the Lighthouse score to 90+ using code splitting and Cloudinary CDN. Currently live with real users.
 
-[GitHub](#) &nbsp; [Live](#)
+[GitHub](https://github.com/vansh-tambi/OutFytly) &nbsp; [Live](https://outfytly.vercel.app)
 
 <br/>
 
