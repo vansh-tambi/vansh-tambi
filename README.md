@@ -21,7 +21,7 @@
 
 <div align="center">
 
-I'm a second-year CS undergrad at **IIIT Bhopal** who likes building things that actually work and look good doing it.
+I'm a third-year CS undergrad at **IIIT Bhopal** who likes building things that actually work and look good doing it.
 
 I spent the last year going deep on full-stack development: shipped a real product at Maya Exchange, built an offline AI interview coach, and a fashion rental marketplace with real users. I care about the details — clean APIs, smooth UI, code that holds up under pressure.
 
