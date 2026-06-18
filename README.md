@@ -21,11 +21,7 @@
 
 <div align="center">
 
-I'm a third-year CS undergrad at **IIIT Bhopal** who likes building things that actually work and look good doing it.
-
-I spent the last year going deep on full-stack development: shipped a real product at Maya Exchange, built an offline AI interview coach, and a fashion rental marketplace with real users. I care about the details — clean APIs, smooth UI, code that holds up under pressure.
-
-Outside of that I grind competitive programming (950+ problems, CodeChef max 1625) and help run the design and web teams at college. If I'm not coding, I'm probably editing a video or messing around in Figma.
+Third-year CS undergrad at **IIIT Bhopal** passionate about full-stack development and competitive programming. I focus on building scalable systems, clean APIs, and smooth UIs. Outside of coding, I lead college design and web teams and enjoy video editing.
 
 </div>
 
@@ -43,7 +39,7 @@ Outside of that I grind competitive programming (950+ problems, CodeChef max 162
 
 **Full-Stack Developer Intern at Maya Exchange (Remote) &nbsp; Dec 2025 to Jan 2026**
 
-Built the pre-signup flow from scratch using React and Zod with E.164 phone validation, disposable email blocking, and zero page reloads before any API call. On the backend, set up a Redis and BullMQ job queue for email/SMS workflows that kept response time under 300ms. Also handled SHA-256 token hashing and IP-based rate limiting to keep the system secure.
+Developed a secure, zero-reload pre-signup flow using React and Zod. Built an optimized backend with Redis and BullMQ for fast email/SMS queues (<300ms response), and implemented SHA-256 hashing with IP rate-limiting for security.
 
 </div>
 
@@ -84,7 +80,7 @@ Built the pre-signup flow from scratch using React and Zod with E.164 phone vali
 **MockMate — AI Interview Coach**
 `React · Node.js · FastAPI · Python · Local LLMs (Phi-3/Ollama)`
 
-Wanted an interview prep tool that didn't send my answers to some random cloud, so I built one that runs fully offline. It has a 7-stage interview flow, pulls from 738+ questions across 67 datasets, covers 24 roles and 8 domains, and gives AI feedback locally via Ollama. No data leaves your machine.
+Offline AI interview coach featuring a 7-stage flow. Processes 738+ questions using local LLMs via Ollama for secure, private feedback.
 
 [GitHub](https://github.com/vansh-tambi/MockMate) &nbsp; [Live](https://mock-mate-ai-interview.vercel.app)
 
@@ -93,7 +89,7 @@ Wanted an interview prep tool that didn't send my answers to some random cloud, 
 **OutFytly — Fashion Rental Marketplace**
 `MERN Stack · Razorpay · Cloudinary · React Context`
 
-A fashion rental platform with three dashboards for Admin, Seller, and Buyer. Integrated Razorpay with idempotent server-side verification so payments don't double-charge. Got the Lighthouse score to 90+ using code splitting and Cloudinary CDN. Currently live with real users.
+Live fashion rental platform with role-based dashboards. Optimized for a 90+ Lighthouse score and integrated secure Razorpay payments.
 
 [GitHub](https://github.com/vansh-tambi/OutFytly) &nbsp; [Live](https://outfytly.vercel.app)
 
@@ -102,14 +98,14 @@ A fashion rental platform with three dashboards for Admin, Seller, and Buyer. In
 **DrivOn — Ride Booking App**
 `MERN Stack · Google Maps API`
 
-Cab booking app with fare estimation, route tracking via Google Maps, and JWT auth. Built it to understand real-time data flows end to end.
+Full-stack cab booking app featuring real-time route tracking via Google Maps and JWT authentication.
 
 <br/>
 
 **StudyNotion — EdTech Platform**
 `MERN Stack · JWT · Razorpay`
 
-A learning platform where instructors can create courses and students can buy and track them. Covers the full cycle: auth, payments, course progress, and dashboards.
+Learning platform handling course creation, secure payments, and student progress tracking.
 
 </div>
 
@@ -119,17 +115,15 @@ A learning platform where instructors can create courses and students can buy an
 
 <div align="center">
 
-**InnovateX Ideathon** — 3rd out of 150 teams. Pitched a fintech idea to investors in front of 2500+ people. One of the more nerve-wracking things I have done.
+**InnovateX Ideathon** — 3rd out of 150 teams. Pitched a fintech startup to investors and an audience of 2500+.
 
-**Smart India Hackathon 2024** — Worked on an AI Career Counseling system as part of the national-level submission.
+**Certificate of Excellence** — Awarded by Coding Ninjas for Data Structures and Algorithms.
 
-**HackX 3.0** — Made it to Round 2 at Manipal University Jaipur with an AI Legal Advisor concept.
+**HackX 3.0** — Round 2 Qualifier at Manipal University Jaipur with an AI Legal Advisor project.
 
-**IICPC** — Competed in the regional ICPC-style coding contest.
+**IICPC** — Competitor in the regional ICPC-style coding contest.
 
-**DSA Certification** — Coding Studio structured DSA program.
-
-**Generative AI with Python** — 32.5-hour Udemy course on LLM pipelines and agent workflows.
+**Generative AI with Python** — Certification covering LLM pipelines and agent workflows.
 
 <br/>
 
@@ -148,13 +142,13 @@ A learning platform where instructors can create courses and students can buy an
 <div align="center">
 
 **Web Dev Lead at AXIOS, IIIT Bhopal**
-Maintaining the society's platform and running sessions to help juniors get into web dev.
+Maintaining the society platform and mentoring juniors in web development.
 
 **Design Lead at AARZOO, IIIT Bhopal**
-Led design for Niimack, our college cultural fest. Event posters, social creatives, the works. Also mentored the junior design team.
+Led design for the college fest, created social creatives, and mentored the design team.
 
 **Video Editor at PODYSSEY**
-Edited podcasts and short-form promo content for social media. Turns out video editing and UI design scratch the same itch.
+Edited podcasts and short-form promotional content for social media.
 
 </div>
 
